@@ -1,0 +1,6 @@
+Functional and Non Functional Requirements
+1. Plug & Play Model - Able to integrate with minimal code changes
+2. Extendable - SMS, Email, Pop-up
+3. Support for multiple notification channels
+4. Store all notifications and logging
+
